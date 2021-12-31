@@ -1,0 +1,6 @@
+Startgeld einstellen
+
+Öffne essentialmode/server/util.lua
+Geht zu Zeile 11 - 12  dann ändert ihr die zeilen!
+    ['startingCash'] = GetConvar('es_startingCash', '15000'),  <- Bar Geld
+    ['startingBank'] = GetConvar('es_startingBank', '35000'), <- Bank GeldStartgeld einstellen
